@@ -124,28 +124,28 @@ a{
     float: left;
     width: 40px;
     height: 40px;
-    border: 2px solid white;
-    border-radius: 40px;
+    /* border: 2px solid white; */
+    /* border-radius: 40px; */
     position: relative;
-    top: 3px;
+    top: 6px;
     left: 10px;
 }
 .text-1{
     position: relative;
-    left: 15px;
+    left: 20px;
     top: 8px;
 }
 .time{
     font-size: 10px;
     position: relative;
     top: 25px;
-    right: 85px;
+    right: 75px;
 }
 .fa.fa-globe{
     font-size: 10px;
     position: relative;
     top: 25px;
-    right: 80px;
+    right: 70px;
 }
 .box-2{
     width: 390px;
